@@ -6,7 +6,10 @@ This is a todo app that allow to create todo and make your work esiast way from 
 It is a Fullstack project
 
 ## Deplolyed App
-Frontend: https://stirring-dragon-4127a8.netlify.app/
+### Frontent
+ https://stirring-dragon-4127a8.netlify.app/
+
+### Backent
 Backend: https://dream-park-backend.onrender.com/
 
 ## Directory Structure
@@ -36,9 +39,13 @@ TODO_APP/
 |
 
 ## Video Walkthrough of the project
-  ###  Link- ```https://drive.google.com/file/d/15tcrvRB-mjvQqo0iiqEAlDuhrUxfsbAG/view?usp=sharing```
+
+   Link- ```https://drive.google.com/file/d/15tcrvRB-mjvQqo0iiqEAlDuhrUxfsbAG/view?usp=sharing```
+
+
 ## Video Walkthrough of the codebase
-  #### Link- ```https://drive.google.com/file/d/19PO0f-jarebqbKLU_aELFSxVBvuDXOj6/view?usp=sharing```
+
+   Link- ```https://drive.google.com/file/d/19PO0f-jarebqbKLU_aELFSxVBvuDXOj6/view?usp=sharing```
 
 ## Installation & Getting started
 Detailed instructions on how to install, configure, and get the project running. For BE/FS projects.
