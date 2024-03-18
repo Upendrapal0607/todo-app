@@ -10,7 +10,7 @@ It is a Fullstack project
  https://stirring-dragon-4127a8.netlify.app/
 
 ### Backent
-Backend: https://dream-park-backend.onrender.com/
+ https://dream-park-backend.onrender.com/
 
 ## Directory Structure
 TODO_APP/
@@ -40,17 +40,17 @@ TODO_APP/
 
 ## Video Walkthrough of the project
 
-   Link- ```https://drive.google.com/file/d/15tcrvRB-mjvQqo0iiqEAlDuhrUxfsbAG/view?usp=sharing```
+   Link- ````https://drive.google.com/file/d/15tcrvRB-mjvQqo0iiqEAlDuhrUxfsbAG/view?usp=sharing```
 
 
 ## Video Walkthrough of the codebase
 
-   Link- ```https://drive.google.com/file/d/19PO0f-jarebqbKLU_aELFSxVBvuDXOj6/view?usp=sharing```
+   Link- ````https://drive.google.com/file/d/19PO0f-jarebqbKLU_aELFSxVBvuDXOj6/view?usp=sharing```
 
 ## Installation & Getting started
 Detailed instructions on how to install, configure, and get the project running. For BE/FS projects.
 ### Frontend
-Locally it will run:- ````http://localhost:3000/```
+Locally it will run:- ```http://localhost:3000/```
 ```bash
 clone git clone  https://github.com/Upendrapal0607/todo-app.git
 cd todo-app
@@ -59,7 +59,7 @@ npm start
 ```
 
 ### Backend
-Locally it will run:- ````http://localhost:8080/```
+Locally it will run:- ```http://localhost:8080/```
 ```bash
 clone same repo for backend
 cd back-end
