@@ -50,7 +50,7 @@ TODO_APP/
 ## Installation & Getting started
 Detailed instructions on how to install, configure, and get the project running. For BE/FS projects.
 ### Frontend
-Locally it will run:- ```http://localhost:3000/```
+Locally it will run:- ````http://localhost:3000/```
 ```bash
 clone git clone  https://github.com/Upendrapal0607/todo-app.git
 cd todo-app
@@ -59,7 +59,7 @@ npm start
 ```
 
 ### Backend
-Locally it will run:- ```http://localhost:8080/```
+Locally it will run:- ````http://localhost:8080/```
 ```bash
 clone same repo for backend
 cd back-end
